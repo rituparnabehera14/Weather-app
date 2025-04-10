@@ -2,6 +2,7 @@
 
 A simple and responsive weather dashboard built with **React.js** and **Vite** that allows users to search for any city and view its current weather, including a 5-day forecast and recent search history.
 
+Link to view Live Deployment:  https://rituparnabehera14.github.io/Weather-app/
  Features
 
 - Search for any city worldwide
